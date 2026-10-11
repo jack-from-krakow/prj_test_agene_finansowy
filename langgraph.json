@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "conversation": "./src/agent_konwersacyjny/studio.py:make_graph"
+  },
+  "env": ".env"
+}

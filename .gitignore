@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.env
+.agent_data/
+.langgraph_api/
+mcp_servers.json
+~$*.xlsx

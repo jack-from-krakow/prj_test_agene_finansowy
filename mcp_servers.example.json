@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "time": {
+      "transport": "stdio",
+      "command": "uvx",
+      "args": ["mcp-server-time", "--local-timezone=Europe/Warsaw"],
+      "agents": ["orchestrator", "finance"]
+    }
+  }
+}
